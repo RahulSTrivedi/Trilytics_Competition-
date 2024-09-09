@@ -1,0 +1,98 @@
+PROMOTION_START_DATE,PROMOTION_END_DATE,PROMOTION_TYPE,PROMOTION_OFFER,PROMOTION_ITEM,PROMOTION_CASH_AMOUNT,PROMOTION_PERCENTAGE,PLATFORM,FREQUENCY,PROMOTION_DAY_OF_WEEK,PROMOTION_CHANNEL,PROMOTION_COVERAGE,REGIONAL_COVERAGE
+04-09-2021,04-09-2021,Delivery Fee,Delivery,Delivery Fee,0,0,DD,Daily,,Delivery,National,USA
+4/16/2021,5/13/2021,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+3/17/2022,3/20/2022,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+3/24/2022,3/27/2022,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+04-01-2022,04-04-2022,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+9/14/2022,9/22/2022,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+10/31/2022,10/31/2022,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+11-06-2022,11-10-2022,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+11-10-2022,11/13/2022,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+11/15/2022,12-05-2022,Overall Discount,,,0,0.2,UE,Daily,,Delivery,National,USA
+11/17/2022,11/20/2022,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+11/22/2022,12-05-2022,Overall Discount,,,0,0.2,UE,Daily,,Delivery,National,USA
+11/25/2022,11/27/2022,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+11/30/2022,12-03-2022,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+12-04-2022,12-05-2022,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+12-06-2022,12/19/2022,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+01-11-2023,1/16/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+1/21/2023,1/22/2023,Overall Discount,,,3,0,DD,Daily,,Delivery,National,USA
+1/28/2023,1/29/2023,Overall Discount,,,7,0,DD,Daily,,Delivery,National,USA
+02-03-2023,02-05-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+02-04-2023,02-05-2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,National,USA
+2/15/2023,2/19/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+2/24/2023,03-05-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+03-06-2023,3/15/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+3/13/2023,3/26/2023,Overall Discount,,,3,0,DD,Daily,,Delivery,National,USA
+3/13/2023,3/26/2023,Overall Discount,,,6,0,DD,Daily,,Delivery,National,USA
+3/16/2023,3/27/2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,National,USA
+3/16/2023,3/19/2023,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Daily,,Delivery,National,USA
+04-01-2023,04-08-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+04-01-2023,4/15/2023,Overall Discount,,,2,0,DD,Daily,,Delivery,National,USA
+4/15/2023,4/22/2023,Free Item,Dessert,Brownie,0,0,UE,Daily,,Delivery,National,USA
+4/29/2023,05-10-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+05-02-2023,05-09-2023,Free Item,Protein,Chicken Sandwich Combo,0,0,UE,Daily,,Delivery,National,USA
+05-03-2023,5/31/2023,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Weekday,Wednesday,Delivery,National,USA
+05-11-2023,5/14/2023,Free Item,Side,Corn,0,0,UE,Daily,,Delivery,National,USA
+5/15/2023,5/21/2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+5/15/2023,5/21/2023,Free Item,Protein,Chicken Sandwich,0,0,Inhouse,Daily,,Delivery,National,USA
+5/15/2023,5/21/2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,National,USA
+5/22/2023,5/31/2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,National,USA
+5/26/2023,06-12-2023,Overall Discount,,,5,0,DD,Daily,,Delivery,National,USA
+5/31/2023,06-11-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+06-12-2023,6/18/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+6/15/2023,07-12-2023,Overall Discount,,,5,0,DD,Daily,,Delivery,National,USA
+6/19/2023,6/25/2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+6/26/2023,6/30/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+07-11-2023,7/17/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+7/13/2023,7/19/2023,Overall Discount,,,4,0,DD,Daily,,Delivery,National,USA
+7/13/2023,7/19/2023,Overall Discount,,,6,0,DD,Daily,,Delivery,National,USA
+08-01-2023,8/14/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+8/17/2023,8/27/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+8/26/2023,09-03-2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,National,USA
+8/28/2023,09-10-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+09-07-2023,09-11-2023,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Weekday,Wednesday,Delivery,National,USA
+09-07-2023,09-11-2023,Overall Discount,,,7,0,DD,Daily,,Delivery,National,USA
+09-07-2023,09-11-2023,Overall Discount,,,3,0,DD,Daily,,Delivery,National,USA
+09-11-2023,9/24/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+9/13/2023,10/25/2023,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Weekday,Wednesday,Delivery,National,USA
+9/25/2023,10-01-2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,National,USA
+10-02-2023,10-09-2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,National,USA
+10-02-2023,10-09-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,National,USA
+10/25/2023,11/29/2023,Delivery Fee,Delivery,Delivery Fee,0,0,Inhouse,Weekday,Wednesday,Delivery,National,USA
+11-09-2023,11-12-2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,National,USA
+11-09-2023,11-12-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,National,USA
+11/13/2023,11/19/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Overall Discount,,,3,0,DD,Daily,,Delivery,Regional,USA
+11/13/2023,11/19/2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Overall Discount,,,3,0,DD,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+11/27/2023,12-03-2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Overall Discount,,,3,0,DD,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,Regional,USA
+12-04-2023,12-10-2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Side,Fries,0,0,DD,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Overall Discount,,,3,0,DD,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Protein,Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Protein,Chicken Sandwich,0,0,DD,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Protein,Chicken Sandwich,0,0,UE,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Protein,Sandwich,0,0,DD,Daily,,Delivery,Regional,USA
+12-11-2023,12/17/2023,Free Item,Side,Fries,0,0,UE,Daily,,Delivery,Regional,USA
